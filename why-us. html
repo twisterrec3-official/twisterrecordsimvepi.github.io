@@ -4,8 +4,9 @@
 	<title>Why Choose Us | Twister Records Imvepi</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="stylesheet" href="assets/css/main.css" />
-	<link rel="icon" href="images/twister-logo.jpg">
+	<link rel="stylesheet" href="main.css" />
+<link rel="stylesheet" href="noscript.css" />
+	<link rel="icon" href="twister-logo.jpg" />
 </head>
 <body class="is-preload">
 	<div id="wrapper">
@@ -35,7 +36,7 @@
 		</div>
 	</div>
 	<a href="https://wa.me/256780759719" style="position:fixed; bottom:20px; right:20px; background:#25D366; color:white; padding:15px 25px; border-radius:50px; text-decoration:none; font-weight:bold; box-shadow:0 4px 8px rgba(0,0,0,0.3); z-index:999;">💬 WhatsApp Us</a>
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/main.js"></script>
+	<script src="jquery.min.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
