@@ -4,8 +4,9 @@
 	<title>Contact | Twister Records Imvepi</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="stylesheet" href="assets/css/main.css" />
-	<link rel="icon" href="images/twister-logo.jpg">
+	<link rel="stylesheet" href="main.css" />
+<link rel="stylesheet" href="noscript.css" />
+<link rel="icon" href="twister-logo.jpg" />
 </head>
 <body class="is-preload">
 	<div id="wrapper">
@@ -49,7 +50,7 @@
 			</section>
 		</footer>
 	</div>
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/main.js"></script>
+	<script src="jquery.min.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
